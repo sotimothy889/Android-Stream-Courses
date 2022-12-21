@@ -1,0 +1,16 @@
+section.main {
+  width: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+div.main {
+  border-radius: 5%;
+  color: white;
+  padding: 10%;
+  font-size: 5vw;
+}
+div.main h1 {
+  font-size: 8vw;
+}
