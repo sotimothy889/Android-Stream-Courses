@@ -8,7 +8,10 @@ div.main {
   color: white;
   padding: 10%;
 }
-.main + .list {
+.main .list {
   justify-content: center;
   align-items: center;
+}
+.main h1 {
+  text-align: center;
 }
